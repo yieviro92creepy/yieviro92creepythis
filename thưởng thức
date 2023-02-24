@@ -1,0 +1,293 @@
+local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
+
+local Window = Library.CreateLib("jejejeiak Hotel update+ v1.4", "Synapse")
+
+local Tab = Window:NewTab("Item/Gui")
+
+local Section = Tab:NewSection("item is crazy")
+
+Section:NewButton("skeleton key", "", function()
+
+    loadstring(game:HttpGet("https://pastebin.com/raw/YSj8WCwS"))() 
+
+end)
+
+Section:NewButton("crucifixa", "Blocks Entity Attack.", function()
+
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/ZepsyyCodesLUA/Utilities/main/Doors/Crucifix.lua"))()
+
+end)
+
+Section:NewButton("spawn rush", "?", function()
+
+    loadstring(game:HttpGet("https://pastebin.com/raw/fRks2wcv"))()  
+
+end)
+
+Section:NewButton("aimlock Q tools", "ha", function()
+
+    loadstring(game:HttpGet("https://pastebin.com/raw/BG8cg5pv"))()  
+
+end)
+
+Section:NewButton("skeleton key color", "chill", function()
+
+    loadstring(game:HttpGet("https://pastebin.com/raw/BndNFTrG"))()  
+
+end)
+
+Section:NewButton("Floor 2", "?", function()
+
+    loadstring(game:HttpGet("https://pastebin.com/raw/EP8BN1cD"))()  
+
+end)
+
+Section:NewButton("skeleton crucifix Made totally alex", "psst", function()
+
+    loadstring(game:HttpGet("https://pastebin.com/raw/hnZJrgU6"))()  
+
+end)
+
+Section:NewButton("eyes crucifix", "DID YOU ASS LSPLASH", function()
+
+    loadstring(game:HttpGet("https://pastebin.com/raw/7s5z96vK"))()  
+
+end)
+
+Section:NewButton("room 1", "room 1", function()
+
+    loadstring(game:HttpGet("https://pastebin.com/raw/tASz4i06"))()  
+
+end)
+
+Section:NewButton("entity spawner", "eee", function()
+
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/althan99/doors-entity-spawner/main/Script"))()  
+
+end)
+
+Section:NewButton("A-60 is crazy", "ass", function()
+
+    loadstring(game:HttpGet("https://pastebin.com/raw/0kcPCPgg"))()  
+
+end)
+
+Section:NewButton("King hub gui mobile disable Anti cheat", "grrr!!", function()
+
+    loadstring(game:HttpGet(('https://pastebin.com/raw/R8QMbhzv')))()  
+
+end)
+
+Section:NewButton("statue doors", "hahah", function()
+
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/toosiwhip/StatueV2/main/statuev2doors.lua"))()  
+
+end)
+
+Section:NewButton("Screech psst", "?", function()
+
+    require(game.StarterGui.MainUI.Initiator.Main_Game.RemoteListener.Modules.Screech)(require(game.Players.LocalPlayer.PlayerGui.MainUI.Initiator.Main_Game),
+
+workspace.CurrentRooms[game.Players.LocalPlayer:GetAttribute("CurrentRoom")])
+
+end)
+
+Section:NewButton("Hallowen crucifix", "", function()
+
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/Mye123/MyeWareHub/main/Halloween%20Crucifix"))()
+
+    print("The Hallowen Crucfix Was Excuted!")
+
+end)
+
+Section:NewButton("Figure Crucfi", "LSPLASH", function()
+
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBloxYT/ok/main/Okay"))();
+
+    print("The Figure Crucfix Was Excuetd!")
+
+end)
+
+local Tab = Window:NewTab("LocalPlayer")
+
+local Section = Tab:NewSection("Localplayer credits jejejeiak")
+
+Section:NewSlider("WalkSpeed", "WalkSpeed", 500, 0, function(s) -- 500 (MaxValue) | 0 (MinValue)
+
+    game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = s
+
+end)
+
+local Section = Tab:NewSection("Others")
+
+Section:NewButton("Burgerr", "h", function()
+
+ local Item = game:GetObjects("rbxassetid://100522628")[1] Item.Parent = game.Players.LocalPlayer.Backpack
+
+    print("The Burger Was ExcD")
+
+end)
+
+Section:NewButton("Screech plushly patched", "hhh!", function()
+
+ local Item = game:GetObjects("rbxassetid://110017631")[1] Item.Parent = game.Players.LocalPlayer.Backpack 
+
+    print("Screech Was Excuted!")
+
+end)
+
+Section:NewButton("SCREECH FIGURE patched", "g", function()
+
+    loadstring(game:HttpGet("https://pastebin.com/raw/aKaxwTKc"))()  
+
+end)
+
+Section:NewButton("Epic face egg", "why find egg!", function()
+
+ local Item = game:GetObjects("rbxassetid://110017631")[1] Item.Parent = game.Players.LocalPlayer.Backpack
+
+    print("Egg face epic Was Executor")
+
+end)
+
+Section:NewButton("Jack patched", "!jack a", function()
+
+ local Item = game:GetObjects("rbxassetid://11996695916")[1] Item.Parent = game.Players.LocalPlayer.Backpack
+
+    print("jack Was Excuted")
+
+end)
+
+Section:NewButton("creeper gun", "creep", function()
+
+ local Item = game:GetObjects("rbxassetid://11733586784")[1] Item.Parent = game.Players.LocalPlayer.Backpack
+
+    print("creeper Was Excuted")
+
+end)
+
+Section:NewButton("eat antlers yum", "eerr", function()
+
+ local Item = game:GetObjects("rbxassetid://9565589382")[1] Item.Parent = game.Players.LocalPlayer.Backpack
+
+    print("eat antlers")
+
+end)
+
+Section:NewButton("Screech plushy", ", ", function()
+
+ loadstring(game:HttpGet("https://pastebin.com/raw/yAyZVLAW"))()
+
+    print("Screech was Excuted!")
+
+end)
+
+Section:NewButton("seek arm spawn", "tyt", function()
+
+    loadstring(game:HttpGet("https://pastefy.ga/k4qCojVB/raw"))()  
+
+end)
+
+Section:NewButton("seek Spawn", "aaaa", function()
+
+    loadstring(game:HttpGet("https://pastefy.ga/RlV90JBk/raw"))()  
+
+end)
+
+Section:NewButton("Seek plushie", "K", function()
+
+    loadstring(game:HttpGet("https://pastefy.ga/cMz6DDWC/raw"))()  
+
+end)
+
+Section:NewButton("Ambush plushie", "nrdd", function()
+
+    loadstring(game:HttpGet("https://pastefy.ga/F05e55h3/raw"))()  
+
+end)
+
+Section:NewButton("A-60 Plushie", "if", function()
+
+    loadstring(game:HttpGet("https://pastefy.ga/UhuzwPLZ/raw"))()  
+
+end)
+
+Section:NewButton("figure plushie", "ddfkfk", function()
+
+    loadstring(game:HttpGet("https://pastefy.ga/cn87mQiq/raw"))()  
+
+end)
+
+Section:NewButton("Christmas screech (Fluxus)", "t", function()
+
+    loadstring(game:HttpGet("https://pastefy.ga/x1MCsUL1/raw"))()  
+
+end)
+
+Section:NewButton("Rebound Plushie (patched)", "a", function()
+
+    loadstring(game:HttpGet("https://pastefy.ga/FxeEaLhN/raw"))()  
+
+end)
+
+Section:NewButton("Eyes plushie coming soon", "dam", function()
+
+ local Item = game:GetObjects("rbxassetid://110017631")[1] Item.Parent = game.Players.LocalPlayer.Backpack
+
+    print("XD")
+
+end)
+
+Section:NewButton("Roblox Spawn", "papaa", function()
+
+    loadstring(game:HttpGet("https://pastefy.ga/BRPuj8yY/raw"))()  
+
+end)
+
+Section:NewButton("Seek stare spawn unkillable", "hack", function()
+
+    loadstring(game:HttpGet("https://pastefy.ga/qhoMItPI/raw"))()  
+
+end)
+
+Section:NewButton("poop doors", "m", function()
+
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/mstudio45/poopdoors_edited/main/poopdoors_edited.lua"))()  
+
+end)
+
+Section:NewButton("Bypass cheat doesn't work", "nee", function()
+
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/weszek/Doors/main/Doors%20by"))()  
+
+end)
+
+Section:NewButton("Huee hub v1 updated News", "Ki", function()
+
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/zoophiliaphobic/POOPDOORS/main/script.lua"))()  
+
+end)
+
+Section:NewButton("Morph", "gg", function()
+
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/RmdComunnityScriptsProvider/AngryHub/main/DoorsMorphScript.lua"))()  
+
+end)
+
+Section:NewButton("Scanner in pre shop Cost 1000 on pc Working", "Night vision", function()
+
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/DeividComSono/Scripts/main/Scanner.lua"))()  
+
+end)
+
+Section:NewButton("inf jack (cant pick)", "Kill entitys u want", function()
+
+    loadstring(game:HttpGet("https://pastebin.com/raw/aKHfDXT4"))()  
+
+end)
+
+Section:NewButton("A60 spawner (from the rooms)", "Kt", function()
+
+    loadstring(game:HttpGet("https://pastefy.ga/NBKvr1hr/raw"))()  
+
+end)
